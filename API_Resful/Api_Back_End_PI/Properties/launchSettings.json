@@ -1,0 +1,28 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Api_Back_End_PI": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\aline\\Downloads\\Entra21Api-main\\Entra21Api-main\\Api_Back_End_PI\\bin\\Debug\\net6.0\\runtimes\\win",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": false,
+      "applicationUrl": "https://localhost:7275;http://localhost:5078"
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:60034",
+      "sslPort": 44359
+    }
+  }
+}

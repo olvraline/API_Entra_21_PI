@@ -2259,11 +2259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aline\\Downloads\\Entra21Api-main\\Entra21Api-main\\api_back_end_PI\\Api_Back_End_PI.csproj",
+      "projectUniqueName": "C:\\Users\\aline\\OneDrive\\Área de Trabalho\\projeto\\API_Entra_21_PI\\API_Resful\\Api_Back_End_PI\\Api_Back_End_PI.csproj",
       "projectName": "Api_Back_End_PI",
-      "projectPath": "C:\\Users\\aline\\Downloads\\Entra21Api-main\\Entra21Api-main\\api_back_end_PI\\Api_Back_End_PI.csproj",
+      "projectPath": "C:\\Users\\aline\\OneDrive\\Área de Trabalho\\projeto\\API_Entra_21_PI\\API_Resful\\Api_Back_End_PI\\Api_Back_End_PI.csproj",
       "packagesPath": "C:\\Users\\aline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aline\\Downloads\\Entra21Api-main\\Entra21Api-main\\api_back_end_PI\\obj\\",
+      "outputPath": "C:\\Users\\aline\\OneDrive\\Área de Trabalho\\projeto\\API_Entra_21_PI\\API_Resful\\Api_Back_End_PI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

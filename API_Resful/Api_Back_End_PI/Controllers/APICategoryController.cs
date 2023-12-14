@@ -22,7 +22,7 @@ namespace Api_Back_End_PI.Controllers
             return Ok(await _categoryRepository.Get());
         }
 
-        [HttpGet("bynamecategory/{id}", Name = "GetById")]
+        [HttpGet("byidcategory/{id}", Name = "GetById")]
         public async Task<IActionResult> GetById(int id)
         {
             return Ok(await _categoryRepository.GetById(id));

@@ -59,7 +59,7 @@ namespace Api_Back_End_PI.Repository
         {
             string sql = @"
                  UPDATE STORE 
-                   SET Name = @Name, 
+                   SET Name = @Name,
                        CEP = @cep,
                        CNPJ = @cnpj
                  WHERE Id = @Id

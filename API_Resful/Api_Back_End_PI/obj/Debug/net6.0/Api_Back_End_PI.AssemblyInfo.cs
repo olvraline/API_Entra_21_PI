@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api_Back_End_PI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb961f92fac25efdea6466122a7abc9e41a9381")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api_Back_End_PI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api_Back_End_PI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

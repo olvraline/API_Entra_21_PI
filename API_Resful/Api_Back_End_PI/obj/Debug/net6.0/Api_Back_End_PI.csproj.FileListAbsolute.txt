@@ -182,3 +182,10 @@ C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resfu
 C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\obj\Debug\net6.0\Api_Back_End_PI.pdb
 C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\obj\Debug\net6.0\Api_Back_End_PI.genruntimeconfig.cache
 C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\obj\Debug\net6.0\ref\Api_Back_End_PI.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aline\Downloads\API_Entra_21_PI-main (1)\API_Entra_21_PI-main\API_Resful\Api_Back_End_PI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
